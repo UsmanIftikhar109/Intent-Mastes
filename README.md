@@ -1,1 +1,1 @@
-# Intent-Mastes
+# Intent-Master
